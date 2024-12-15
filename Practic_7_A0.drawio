@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Страница — 1" id="cfmhPoh51Ah2j_CQBqwX">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-1" value="&lt;span style=&quot;border: 0px solid rgb(227, 227, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; scrollbar-color: var(--gray-600) transparent; font-weight: 600; margin-top: 0px; margin-bottom: 0px; font-family: &amp;quot;Segoe UI Variable Text&amp;quot;, ui-sans-serif, -apple-system, system-ui, &amp;quot;Segoe UI&amp;quot;, Helvetica, &amp;quot;Apple Color Emoji&amp;quot;, Arial, sans-serif, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Подання документів до ВНЗ&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-3" value="Документи абітурієнта" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="310" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-5" value="Вимоги університету" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-6" value="Правила прийому" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="314" y="240" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Терміни подання&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-8" value="Електронна система" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-9" value="Приймальна комісія" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-10" value="Підтвердження подання документів" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.167;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="G0LNGptHmWlaf1Ew9TDS-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="270" as="sourcePoint" />
+            <mxPoint x="400" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.167;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="420" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.147;entryY=0.997;entryDx=0;entryDy=0;exitX=0.467;exitY=-0.087;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="G0LNGptHmWlaf1Ew9TDS-8" target="G0LNGptHmWlaf1Ew9TDS-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="346.8" y="370" as="sourcePoint" />
+            <mxPoint x="346.8" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.147;entryY=0.997;entryDx=0;entryDy=0;exitX=0.467;exitY=-0.087;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.8" y="410" as="sourcePoint" />
+            <mxPoint x="429.8" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1.026;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="G0LNGptHmWlaf1Ew9TDS-3" target="G0LNGptHmWlaf1Ew9TDS-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="377" as="sourcePoint" />
+            <mxPoint x="295" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="G0LNGptHmWlaf1Ew9TDS-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="354.8" as="sourcePoint" />
+            <mxPoint x="332" y="354.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G0LNGptHmWlaf1Ew9TDS-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="G0LNGptHmWlaf1Ew9TDS-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="340" as="sourcePoint" />
+            <mxPoint x="500" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

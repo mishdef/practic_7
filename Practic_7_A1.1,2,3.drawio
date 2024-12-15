@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Страница — 1" id="TP7sv-TgmL-lr3NqH-2Z">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jFeMoqv7l2OdwP5XVpHW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jFeMoqv7l2OdwP5XVpHW-1" target="jFeMoqv7l2OdwP5XVpHW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFeMoqv7l2OdwP5XVpHW-1" value="Отримання необхідних довідок" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jFeMoqv7l2OdwP5XVpHW-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFeMoqv7l2OdwP5XVpHW-2" value="&amp;nbsp;Перевірка документів на відповідність вимогам ВНЗ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jFeMoqv7l2OdwP5XVpHW-3" target="CNDRYc9Z2D3Jk4pZ0d_y-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFeMoqv7l2OdwP5XVpHW-3" value="Формування комплекту документів" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jFeMoqv7l2OdwP5XVpHW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jFeMoqv7l2OdwP5XVpHW-4" target="jFeMoqv7l2OdwP5XVpHW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFeMoqv7l2OdwP5XVpHW-4" value="Інформація від навчальних закладів" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jFeMoqv7l2OdwP5XVpHW-5" value="Вимоги до довідок" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jFeMoqv7l2OdwP5XVpHW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jFeMoqv7l2OdwP5XVpHW-6" target="jFeMoqv7l2OdwP5XVpHW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFeMoqv7l2OdwP5XVpHW-6" value="Медичні установи" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="205" y="380" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jFeMoqv7l2OdwP5XVpHW-7" target="jFeMoqv7l2OdwP5XVpHW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFeMoqv7l2OdwP5XVpHW-7" value="Довідки для подання" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jFeMoqv7l2OdwP5XVpHW-8" target="jFeMoqv7l2OdwP5XVpHW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFeMoqv7l2OdwP5XVpHW-8" value="Абітурієнт " style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jFeMoqv7l2OdwP5XVpHW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.168;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jFeMoqv7l2OdwP5XVpHW-5" target="jFeMoqv7l2OdwP5XVpHW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFeMoqv7l2OdwP5XVpHW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.84;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jFeMoqv7l2OdwP5XVpHW-8" target="jFeMoqv7l2OdwP5XVpHW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNDRYc9Z2D3Jk4pZ0d_y-1" target="jFeMoqv7l2OdwP5XVpHW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-1" value="Перелік документів" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="760" y="240" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-2" value="Вимоги ВНЗ" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNDRYc9Z2D3Jk4pZ0d_y-3" target="jFeMoqv7l2OdwP5XVpHW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-3" value="Приймальна комісія, ВНЗ" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CNDRYc9Z2D3Jk4pZ0d_y-4" target="jFeMoqv7l2OdwP5XVpHW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-4" value="Перевірений комплект документів" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-5" value="Формати подання документів" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-11" value="Онлайн системи" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CNDRYc9Z2D3Jk4pZ0d_y-2" target="jFeMoqv7l2OdwP5XVpHW-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-17" value="Комплект документів" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="95" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.209;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CNDRYc9Z2D3Jk4pZ0d_y-11" target="jFeMoqv7l2OdwP5XVpHW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.789;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jFeMoqv7l2OdwP5XVpHW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="50" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-22" value="A1.1" style="text;whiteSpace=wrap;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="210" y="330" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-23" value="A1.2" style="text;whiteSpace=wrap;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CNDRYc9Z2D3Jk4pZ0d_y-24" value="A1.3" style="text;whiteSpace=wrap;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="355" y="120" width="20" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
